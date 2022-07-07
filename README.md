@@ -1,18 +1,17 @@
 ### Hi there 👋
+
 - 🔭 I’m currently working on Dev Web Full Stack
 - 🌱 I’m currently learning <a href="https://github.com/diegossena"><img align="center"  alt="Python Icon" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a> Python
 - 📫 How to reach me: diego.souza.sena10@gmail.com
 
 <div>
-  <details open>
-    <summary><strong>GitHub Stats<strong></summary>
-    <a href="https://github.com/diegossena">
-      <img height="163em" src="https://github-readme-stats.vercel.app/api?username=diegossena&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-      <img height="163em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegossena&layout=compact&langs_count=10&theme=dracula&hide=CMake%2C%20Makefile" />
-    </a>
-  </details>
+   <img height="195" align="center" src="https://github-readme-stats.vercel.app/api?username=diegossena&show_icons=true&theme=radical&show_icons=true&count_private=true&hide_border=true" alt="Diego github stats" />
+  <img height="195" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegossena&layout=compact&theme=radical&hide_border=true"/>
 </div>
-<details open>
+
+  
+
+<!-- <details open>
   <summary><strong>Linguagens<strong></summary>
   <a href="https://github.com/diegossena">
     <img title="C" align="center" alt="diegossena-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
@@ -26,36 +25,37 @@
     <img title="PHP" align="center" alt="diegossena-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
     <img title="Python" align="center" alt="diegossena-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   </a>
-</details>
-<details open>
-  <summary><strong>Frameworks<strong></summary>
-  <a href="https://github.com/diegossena">
-    <img title="React" align="center" alt="diegossena-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img title="NextJS" align="center" alt="diegossena-NextJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-    <img title="Electron" align="center" alt="diegossena-Electron" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg">
-    </a>
-</details>
-<details open>
-  <summary><strong>Ferramentas<strong></summary>
-  <a href="https://github.com/diegossena">
-    <img title="Babel" align="center" alt="diegossena-Babel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-original.svg">
-    <img title="Webpack" align="center" alt="diegossena-Webpack" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg">
-    <img title="NodeJS" align="center" alt="diegossena-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  </a>
-</details>
-<details open>
-  <summary><strong>SO's<strong></summary>
-  <a href="https://github.com/diegossena">
-    <img title="Windows" align="center" alt="diegossena-Windows" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
-    <img title="CentOS" align="center" alt="diegossena-CentOS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/centos/centos-original.svg">
-  </a>
-</details>
-<details open>
-  <summary><strong>SQL<strong></summary>
-  <a href="https://github.com/diegossena">
-    <img title="MySQL" align="center" alt="diegossena-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-    <img title="SQL Server" align="center" alt="diegossena-SQL-Server" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
-  </a>
-</details>
+</details> -->
+
+
+Frameworks
+-
+<a href="https://github.com/diegossena">
+  <img title="React" align="center" alt="react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img title="NextJS" align="center" alt="nextjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+  <img title="Electron" align="center" alt="electron" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg">
+</a>
+
+Ferramentas
+-
+<a href="https://github.com/diegossena">
+  <img title="babel" align="center" alt="babel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-original.svg">
+  <img title="Webpack" align="center" alt="webpack" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg">
+  <img title="NodeJS" align="center" alt="nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+</a>
+
+SO's
+-
+<a href="https://github.com/diegossena">
+  <img title="Windows" align="center" alt="windows" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
+  <img title="CentOS" align="center" alt="centos" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/centos/centos-original.svg">
+</a>
+
+SQL
+-
+<a href="https://github.com/diegossena">
+  <img title="MySQL" align="center" alt="mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img title="SQL Server" align="center" alt="sql server" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+</a>
 
 ![Snake animation](https://github.com/diegossena/diegossena/blob/output/github-contribution-grid-snake.svg)

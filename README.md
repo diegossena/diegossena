@@ -5,8 +5,8 @@
 - 📫 How to reach me: diego.souza.sena10@gmail.com
 
 <div>
-   <img height="195" align="center" src="https://github-readme-stats.vercel.app/api?username=diegossena&show_icons=true&theme=radical&show_icons=true&count_private=true&hide_border=true" alt="Diego github stats" />
-  <img height="195" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegossena&layout=compact&theme=radical&hide_border=true"/>
+   <img height="190" align="center" src="https://github-readme-stats.vercel.app/api?username=diegossena&show_icons=true&theme=radical&show_icons=true&count_private=true&hide_border=true" alt="Diego github stats" />
+  <img height="190" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegossena&layout=compact&theme=radical&hide_border=true"/>
 </div>
 
   

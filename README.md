@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Dev Web Full Stack
-- 🌱 I’m currently learning <a href="https://github.com/diegossena"><img align="center"  alt="Python Icon" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a> Python
 - 📫 How to reach me: diego.souza.sena10@gmail.com
 
 <div>

@@ -37,5 +37,3 @@ SQL
   <img title="MySQL" align="center" alt="mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img title="SQL Server" align="center" alt="sql server" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
 </a>
-
-![Snake animation](https://github.com/diegossena/diegossena/blob/output/github-contribution-grid-snake.svg)

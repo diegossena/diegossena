@@ -1,6 +1,5 @@
 ### Diego Sena
 
-Hello there, and welcome! I am currently working on Dev Web Full Stack
 - 📫 How to reach me: diego.souza.sena10@gmail.com
 
 <div>
